@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    font-size: 70px;
+    text-align: center
+  }
+  
+  .scores {
+    color: rgb(0, 238, 255);
+    font-size: 30px;
+    text-align: center
+  }

@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Mickey",
+      "image": "https://i2.wp.com/freepngimages.com/wp-content/uploads/2015/10/mickey-mouse-disney-character.png?fit=419%2C722",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Dory",
+      "image": "https://i.pinimg.com/originals/45/59/8d/45598d6462e467cf8b2cc8ca4960c57e.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Nemo",
+      "image": "https://i2.wp.com/img3.wikia.nocookie.net/__cb20131111070747/disney/images/a/aa/Nemo-FN.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Peter",
+      "image": "http://www.gosforthpreschool.co.uk/wp-content/uploads/2017/10/peterpan-transparent-background-image-disney-character.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Minnie",
+      "image": "https://i.pinimg.com/originals/49/aa/e8/49aae8e5812c796a372c0bb48843f843.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Simba",
+      "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG67.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Dumbo",
+      "image": "http://mickeymousepictures.com/wp-content/uploads/2015/07/Dumbo-1.gif",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Incredible",
+      "image": "https://stickeroid.com/uploads/pic/full-pngmart/302d96a716795337640c53dae658e82f082268d8.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Buzz",
+      "image": "https://cache.popcultcha.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/u/buzz.1498661523.png",
+      "count": 0
+    }
+]

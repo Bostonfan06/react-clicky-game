@@ -1,0 +1,11 @@
+.wrapper {
+    padding-top: 10px;
+    background: url("https://ptzgovorit.ru/sites/default/files/original_nodes/614299.jpg");
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
