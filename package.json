@@ -1,5 +1,6 @@
 {
   "name": "clickgame",
+  "homepage": "http://Bostonfan06.github.io/react-clicky-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
